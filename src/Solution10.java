@@ -1,4 +1,4 @@
-public class Soulution10 {
+public class Solution10 {
     public static void main(String[] args) {
         marryMe("m","m");
         marryMe("j","d");
