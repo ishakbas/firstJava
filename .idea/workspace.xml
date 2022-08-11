@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb7a03e-bc29-433a-9b88-cc66695ba482" name="Changes" comment="solution14">
-      <change afterPath="$PROJECT_DIR$/src/Solution15.java" afterDir="false" />
+    <list default="true" id="cbb7a03e-bc29-433a-9b88-cc66695ba482" name="Changes" comment="solution15">
+      <change afterPath="$PROJECT_DIR$/src/Solution1_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +44,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution15">
-    <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution11" />
-      <module name="firstJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution1_array">
     <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution12" />
       <module name="firstJava" />
@@ -80,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution1_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1_array" />
+      <module name="firstJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1_array" />
         <item itemvalue="Application.Solution15" />
         <item itemvalue="Application.Solution14" />
         <item itemvalue="Application.Solution13" />
         <item itemvalue="Application.Solution12" />
-        <item itemvalue="Application.Solution11" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660141953881</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="solution15">
+      <created>1660142332650</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660142332650</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +232,8 @@
     <MESSAGE value="solution12" />
     <MESSAGE value="solution13" />
     <MESSAGE value="solution14" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution14" />
+    <MESSAGE value="solution15" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
