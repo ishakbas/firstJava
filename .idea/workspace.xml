@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb7a03e-bc29-433a-9b88-cc66695ba482" name="Changes" comment="solution15">
-      <change afterPath="$PROJECT_DIR$/src/Solution1_array.java" afterDir="false" />
+    <list default="true" id="cbb7a03e-bc29-433a-9b88-cc66695ba482" name="Changes" comment="Solution1_array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution1_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution1_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660142332650</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Solution1_array">
+      <created>1660223735366</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660223735366</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +240,8 @@
     <MESSAGE value="solution13" />
     <MESSAGE value="solution14" />
     <MESSAGE value="solution15" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution15" />
+    <MESSAGE value="Solution1_array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution1_array" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
